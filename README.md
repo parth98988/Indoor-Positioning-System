@@ -1,2 +1,2 @@
-# Indoor-Positioning-System
-Internship Project at Vacus Tech
+# Data Transmission Code
+Internship Project at Vacus Tech to make Indoor Positioning System
